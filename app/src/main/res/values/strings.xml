@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LocationPicker</string>
+    <string name="title_activity_maps">LocationPicker</string>
+
+    <string name="addB">Mark Point</string>
+    <string name="removeButton">Remove Point</string>
+    <string name="sendB">Send Points</string>
+    <string name="downloadB">Download Points</string>
+
+    <string name="textView">example: 1.111.11.11:3306/my_database_name</string>
+    <string name="textView1">Database user</string>
+    <string name="textView2">Database password</string>
+
+    <string name="button10">Save data</string>
+    <string name="button11">Load last data</string>
+    <string name="button12">Start</string>
+
+    <string name="enterIP">Enter the database location</string>
+    <string name="enterUser">Enter the database username</string>
+    <string name="enterPass">Enter the database password</string>
+
+</resources>
